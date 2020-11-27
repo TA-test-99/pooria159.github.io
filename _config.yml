@@ -131,10 +131,7 @@ author:
 
 # Site Footer
 #      # url:
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "https://calendly.com/pooria_rahimi"
-
+    #
 
 # Reading Files
 include:
