@@ -62,7 +62,7 @@
   }
 
   img {
-    width: 100%;
+    width: 150px;
     
     &.emoji {
       width: 20px;
@@ -127,8 +127,8 @@
   }
 
   img {
-    max-width: width 170px;
-    border-radius: 80px;
+    max-width: width 150px;
+    border-radius: 60px;
 
     @include breakpoint($large) {
       padding: 5px;
