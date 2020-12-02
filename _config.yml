@@ -104,7 +104,6 @@ author:
   location         : "بندرعباس"
   email            : pooriarahimi159@gmail.com
   linkedin: pooria rahimi
-  Skype : pooria rahimi
   google_scholar: Q25s5KkAAAAJ
   github: pooria159
   links: 
@@ -123,9 +122,9 @@ author:
     - #label: "GitHub"
       #icon: "fab fa-fw fa-github"
       # url: "https://pooria159.github.io"
-    - #label: "Instagram"
-    # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Skype"
+      icon: "fab fa-fw fa-Skype"
+      url: "live:.cid.70048a2c68fca7f3"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "https://calendly.com/pooria_rahimi"
@@ -148,8 +147,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "Skype"
+      icon: "fab fa-fw fa-Skype"
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
