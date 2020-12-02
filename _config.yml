@@ -122,9 +122,9 @@ author:
     - #label: "GitHub"
       #icon: "fab fa-fw fa-github"
       # url: "https://pooria159.github.io"
-    - label: "Skype"
-      icon: "fab fa-fw fa-Skype"
-      url: "live:.cid.70048a2c68fca7f3"
+    # - label: "Skype"
+    #   icon: "fab fa-fw fa-Skype"
+    #   url: "live:.cid.70048a2c68fca7f3"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "https://calendly.com/pooria_rahimi"
@@ -147,8 +147,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Skype"
-      icon: "fab fa-fw fa-Skype"
+    # - label: "Skype"
+    #   icon: "fab fa-fw fa-Skype"
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
