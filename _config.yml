@@ -103,7 +103,7 @@ author:
   bio              : I am a hardworking student 
   location         : "بندرعباس"
   email            : pooriarahimi159@gmail.com
-  Linkedin: pooria
+  Linked in: pooria
   google_scholar: Q25s5KkAAAAJ
   github: pooria159
   links: 
@@ -128,7 +128,7 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "https://calendly.com/pooria_rahimi"
-      
+
 # Site Footer
 footer:
   links:
