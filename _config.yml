@@ -155,7 +155,10 @@ footer:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/"
-
+      #url:
+    - label: "Link in" 
+      icon: "fas fa-Link in"
+      url: "https://www.linkedin.com/in/pooria-rahimi"
 
 
 # Reading Files
