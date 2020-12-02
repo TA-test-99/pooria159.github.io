@@ -103,9 +103,10 @@ author:
   bio              : I am a hardworking student 
   location         : "بندرعباس"
   email            : pooriarahimi159@gmail.com
+  Linkedin: pooria
   google_scholar: Q25s5KkAAAAJ
   github: pooria159
-  links: pooria
+  links: 
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url:  "pooriarahimi159@gmail.com"
@@ -127,10 +128,6 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "https://calendly.com/pooria_rahimi"
-    - label: "Link in" 
-      icon: "fas fa-Link in"
-      url: "https://www.linkedin.com/in/pooria-rahimi"
-
 # Site Footer
 footer:
   links:
@@ -155,10 +152,6 @@ footer:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/"
-      #url:
-    - label: "Link in" 
-      icon: "fas fa-Link in"
-      url: "https://www.linkedin.com/in/pooria-rahimi"
 
 
 # Reading Files
