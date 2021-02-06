@@ -9,7 +9,7 @@ title: Music project
 
 
  
-![my_music](file:///C:/git/pooria159.github.io/_layouts/music.html)
+!audio[ title ](file:///C:/git/pooria159.github.io/_layouts/music.html){ size=10 duration=10 cycle=forever }
 
 
 
